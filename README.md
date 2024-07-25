@@ -7,7 +7,7 @@ future_value = principal * (1 + rate)**years
     
 return future_value
 principal_amount = float(input("Enter the principal amount: "))
-annual_interest_rate = float(input("Enter the annual interest rate (in %): "))
+annual_interest_rate = float(input("Enter the annual interest rate (in %): ")) 
 investment_period = int(input("Enter the number of years: "))
 
 result = calculate_future_value(principal_amount, annual_interest_rate, investment_period)
