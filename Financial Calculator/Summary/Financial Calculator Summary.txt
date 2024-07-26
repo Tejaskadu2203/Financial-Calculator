@@ -1,0 +1,9 @@
+--Financial Calculator--
+
+Financial calculator or business calculator is an electronic calculator that performs financial functions commonly needed in business and commerce communities (simple interest, compound interest, cash flow, amortization, conversion, cost/sell/margin, etc.). It has standalone keys for many financial calculations and functions, making such calculations more direct than on standard calculators. It may be user programmable, allowing the user to add functions that the manufacturer has not provided by default. 
+
+1. A financial calculator can compute standard deviation and variance, which are vital for understanding measures of spread.
+2.It enables quick calculation of correlation coefficients, helping in the analysis of relationships between different financial variables.
+3. Financial calculators often include functions for regression analysis, allowing users to perform linear regressions directly.
+4. They are equipped with time value of money (TVM) functions to solve problems related to present and future value of cash flows.
+5. Many models offer programmable features that let users input custom formulas for specific financial analyses.
